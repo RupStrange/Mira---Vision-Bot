@@ -6,7 +6,7 @@ langgraph
 streamlit
 streamlit-webrtc
 av
-opencv-python
+opencv-python-headless
 SpeechRecognition
 pydub
 groq
