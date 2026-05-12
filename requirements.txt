@@ -13,3 +13,4 @@ groq
 imageio-ffmpeg
 pyttsx3
 elevenlabs
+tornado
