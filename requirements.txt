@@ -13,3 +13,4 @@ groq
 imageio-ffmpeg
 elevenlabs
 tornado
+gTTS
