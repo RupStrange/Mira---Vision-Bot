@@ -1,0 +1,15 @@
+python-dotenv
+langchain-groq
+langchain-core
+langchain
+langgraph
+streamlit
+streamlit-webrtc
+av
+opencv-python
+SpeechRecognition
+pydub
+groq
+imageio-ffmpeg
+pyttsx3
+elevenlabs
